@@ -1,0 +1,50 @@
+{
+    "projects":[
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "A website that will put a random quote on the webpage. This project helped my learn the DOM",
+            "technologies": "JavaScript, HTML, CSS",
+            "live_link": "https://",
+            "github_link": "https://github.com/Bradley-C-Anderson/Techdegree-Unit-1-Project",
+            "image_urls": "https://"
+        },
+        {
+            "id": 1,
+            "project_name": "Employee Directory",
+            "description": "A project that shows data pagination.",
+            "technologies": "JavaScript, HTML, CSS",
+            "live_link": "https://",
+            "github_link": "https://github.com/Bradley-C-Anderson/data-pagination-and-filtering-Project-2",
+            "image_urls": "https://"
+        },
+        {
+            "id": 2,
+            "project_name": "First",
+            "description": "My first project",
+            "technologies": "HTML",
+            "live_link": "https://",
+            "github_link": "http://",
+            "image_urls": "https://"
+        },
+        {
+            "id": 3,
+            "project_name": "First",
+            "description": "My first project",
+            "technologies": "HTML",
+            "live_link": "https://",
+            "github_link": "http://",
+            "image_urls": "https://"
+        },
+        {
+            "id": 4,
+            "project_name": "First",
+            "description": "My first project",
+            "technologies": "HTML",
+            "live_link": "https://",
+            "github_link": "http://",
+            "image_urls": "https://"
+        }
+
+    ]
+}
